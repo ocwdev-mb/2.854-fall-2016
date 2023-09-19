@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2016",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "f08f3e93-55a6-3dbb-fe7a-0aa35026e8f5",
+  "instructors": {
+    "content": [
+      "a7e2d41c-5381-44f5-d6d5-b3e594f37bac"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2f7e440b-ee90-798e-0590-5d5b5f88453e",
+    "website": "2-854-introduction-to-manufacturing-systems-fall-2016"
+  },
+  "course_title": "Introduction to Manufacturing Systems",
+  "course_description": "This course provides ways to analyze manufacturing systems in terms of material flow and storage, information flow, capacities, and times and durations of events. Fundamental topics include probability, inventory and queuing models, optimization, and linear and dynamic systems. Factory planning and scheduling topics include flow planning, bottleneck characterization, buffer and batch-size analysis, and dynamic behavior of production systems.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "2.853",
+  "primary_course_number": "2.854",
+  "course_image_thumbnail": {
+    "content": "79006144-5e10-c824-684c-9a607f863059",
+    "website": "2-854-introduction-to-manufacturing-systems-fall-2016"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "ec4e3070-c6e6-4eaa-a093-126c12d0adac",
+  "site_short_id": "2.854-fall-2016",
+  "title": "Course Metadata"
+}
